@@ -27,66 +27,6 @@
       "avatar": "https://www.models-resource.com/resources/big_icons/55/54902.png?updated=1665879900",
       "powerLevel": 40,
       "agressive": true
-    },
-    {
-      "name": "Picahu",
-      "precio": 30000,
-      "avatar": "http",
-      "id": 5
-    },
-    {
-      "name": "picachu2",
-      "precio": 20,
-      "avatar": "http",
-      "id": 6
-    },
-    {
-      "name": "picachu3",
-      "precio": 30000,
-      "avatar": "http",
-      "id": 7
-    },
-    {
-      "name": "Picahu4",
-      "precio": 30000,
-      "avatar": "http",
-      "id": 8
-    },
-    {
-      "name": "picachu5",
-      "precio": 3,
-      "avatar": "f",
-      "id": 9
-    },
-    {
-      "name": "picachu6",
-      "precio": 4,
-      "avatar": "e",
-      "id": 10
-    },
-    {
-      "name": "picachu7",
-      "precio": 30000,
-      "avatar": "http",
-      "id": 11
-    },
-    {
-      "name": "picachu8",
-      "precio": 44,
-      "avatar": "r",
-      "id": 12
-    },
-    {
-      "name": "Picahu9",
-      "precio": 30000,
-      "avatar": "ddd",
-      "id": 13
-    },
-    {
-      "name": "Mare",
-      "precio": 30000,
-      "avatar": "http",
-      "id": 14
     }
   ],
   "fire": [
