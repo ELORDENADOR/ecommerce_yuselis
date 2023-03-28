@@ -12,6 +12,9 @@ const Productos = ({
   return (
     <div>
 
+
+
+
 <Link to="/crear-productos">
    <button>Crear Nuevos Productos</button>
 </Link>
@@ -23,7 +26,10 @@ const Productos = ({
               {item.name}
 
               <button onClick={() => borrarElemento(item.id)}>Borrar</button>
-              <button onClick={() => editar(item.id)}>Actualizar</button>
+              <button onClick={() => editar(item.id)}>Editar</button>
+             <Link  to={`/detalleDelProducto/${item.id}`}>
+                 <button>Ver Detalle</button>
+             </Link>
             </li>
           );
         })}
